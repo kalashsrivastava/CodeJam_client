@@ -1,5 +1,5 @@
 🚀 CodeJam – Real-Time Collaborative Coding Platform
-- **Start the server first then client**
+- **Start the server first then client**</br>
 [🌐 Live Server](https://codejam-server.onrender.com/)
 [🌐 Live Client](https://codejam-client.onrender.com/) 
 [🛠️ Server Repo](https://github.com/kalashsrivastava/CodeJam_server) 
